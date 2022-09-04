@@ -652,6 +652,11 @@ header nav .form i {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+@media (max-width: 768px) {
+    .our-skills .test .bullets {
+        display: none;
+    }
+}
 .our-skills .test .bullets li {
     width: 14px;
     height: 14px;
