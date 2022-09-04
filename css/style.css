@@ -376,7 +376,7 @@ header nav .form i {
     justify-content: center;
 }
 .portfolio .shuffle li {
-    padding: 10px 20px;
+    padding: 10px 16px;
 }
 .portfolio .shuffle li.active {
     background-color: var(--main-color);
